@@ -11,5 +11,5 @@ Essentially, the company wants to know —
 
 Solution: 
 
-I have removed features like instant and dteday which did not had much relevance while predicting the count of bikes. Then I have calculated the correlation values and chi-square values. "holiday" and "workingday" had low correlation values (less than 0.2) and high chi-square values, so they are also dropped from the features. 
+I have removed features like "instant" and "dteday" which did not had much relevance while predicting the count of bikes. Then I have calculated the correlation values and chi-square values. "holiday" and "workingday" had low correlation values (less than 0.2) and high chi-square values, so they are also dropped from the features. 
 Then I have used sklearn library to fit linear regression model to our data which performs really well.
