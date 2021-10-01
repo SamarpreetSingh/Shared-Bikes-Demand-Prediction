@@ -2,6 +2,8 @@
 
 kaggle - https://www.kaggle.com/c/shared-bikes-demand-prediction
 
+This is a kaggle competition project of Data science and Artificial intelligence.
+
 A US bike-sharing provider `XBikes` has a daily dataset on the rental bikes based on various environmental and seasonal settings. It wishes to use this data to understand the factors affecting the demand for these shared bikes in the American market and come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown due to corona pandemic comes to an end.
 
 Essentially, the company wants to know —
